@@ -1,3 +1,4 @@
+import Approach from "@/components/Approach";
 import Experience from "@/components/Experience";
 import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
@@ -16,6 +17,7 @@ const Home = () => {
         <Grid />
         <RecentProjects />
         <Experience />
+        <Approach/>
       
 
         
